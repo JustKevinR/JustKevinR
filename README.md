@@ -24,9 +24,9 @@
  <br></br>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JustKevinR/portfolio">
 
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKevinR&repo=portfolio&theme=radical" />
   
 </a>
 
