@@ -17,10 +17,31 @@
 <br></br>
 
 
+ 
+</a>
+<a href="https://github.com/JustKevinR/github-readme-stats">
+  <img align="right" width="286" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKevinR&langs_count=8&theme=radical" />
+ 
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+  <img align="left" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+  
+</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical)   [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=JustKevinR&langs_count=8&theme=radical)](https://github.com/JustKevinR/github-readme-stats)
+<a align="left">
+ 
+  <img align="center"  width="550" src="https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical"/>
+  
+</a>
 
+
+
+
+<br></br>
+<br></br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
