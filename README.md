@@ -26,14 +26,14 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
-  <img align="left" width="550" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
   
 </a>
 
 
 <a align="left">
  
-  <img align="center"  width="550" src="https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical"/>
+  <img align="center"  width="500" src="https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical"/>
   
 </a>
 
