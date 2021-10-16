@@ -47,3 +47,6 @@
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#4](https://github.com/kennethlember/tahvel-teavitus/issues/4) in [kennethlember/tahvel-teavitus](https://github.com/kennethlember/tahvel-teavitus)
+2. ❗️ Opened issue [#2](https://github.com/kennethlember/tahvel-teavitus/issues/2) in [kennethlember/tahvel-teavitus](https://github.com/kennethlember/tahvel-teavitus)
+<!--END_SECTION:activity-->
