@@ -16,8 +16,7 @@
 
 
 
-
- 
+ <br></br>
 </a>
 <a href="https://github.com/JustKevinR/github-readme-stats">
   <img align="right" width="286" height="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKevinR&langs_count=8&theme=radical" />
@@ -27,14 +26,14 @@
 
 <a href="https://github.com/JustKevinR/portfolio">
 
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKevinR&repo=portfolio&theme=radical" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKevinR&repo=portfolio&theme=radical" />
   
 </a>
 
 
 <a align="left">
  
-  <img align="center"  width="500" src="https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical"/>
+  <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical"/>
   
 </a>
 
