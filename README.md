@@ -16,7 +16,8 @@
 
 
 
-
+<br></br>
+<br></br>
 
 
  
@@ -38,11 +39,7 @@
   <img align="center"  width="500" src="https://github-readme-stats.vercel.app/api?username=JustKevinR&show_icons=true&theme=radical"/>
   
 </a>
-<a href="https://github.com/JustKevinR/portfolio">
 
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKevinR&repo=portfolio&theme=radical" />
-  
-</a>
 <br></br>
 <br></br>
 
