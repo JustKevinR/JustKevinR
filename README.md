@@ -69,6 +69,6 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/kennethlember/tahvel-teavitus/issues/4) in [kennethlember/tahvel-teavitus](https://github.com/kennethlember/tahvel-teavitus)
-2. ❗️ Opened issue [#2](https://github.com/kennethlember/tahvel-teavitus/issues/2) in [kennethlember/tahvel-teavitus](https://github.com/kennethlember/tahvel-teavitus)
+1. 💪 Opened PR [#15](https://github.com/karlerik100/grupit-2/pull/15) in [karlerik100/grupit-2](https://github.com/karlerik100/grupit-2)
+2. 🎉 Merged PR [#14](https://github.com/karlerik100/grupit-2/pull/14) in [karlerik100/grupit-2](https://github.com/karlerik100/grupit-2)
 <!--END_SECTION:activity-->
