@@ -69,6 +69,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/karlerik100/grupit-2/pull/15) in [karlerik100/grupit-2](https://github.com/karlerik100/grupit-2)
-2. 🎉 Merged PR [#14](https://github.com/karlerik100/grupit-2/pull/14) in [karlerik100/grupit-2](https://github.com/karlerik100/grupit-2)
+1. 🎉 Merged PR [#16](https://github.com/karlerik100/grupit-2/pull/16) in [karlerik100/grupit-2](https://github.com/karlerik100/grupit-2)
+2. 💪 Opened PR [#16](https://github.com/karlerik100/grupit-2/pull/16) in [karlerik100/grupit-2](https://github.com/karlerik100/grupit-2)
 <!--END_SECTION:activity-->
