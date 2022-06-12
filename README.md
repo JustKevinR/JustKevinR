@@ -41,10 +41,6 @@
 <br></br>
 
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustKevinR)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 <br />
 
