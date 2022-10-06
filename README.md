@@ -24,7 +24,7 @@
 
 </a>
 
-<a href="https://github.com/JustKevinR/portfolio">
+<a href="https://github.com/JustKevinR/portfolio2">
 
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JustKevinR&repo=portfolio&theme=radical" />
   
