@@ -1,5 +1,5 @@
 # 💫 About Me:
-Always working on finding ways to do less work using code<br><br>❤️🐧<br><br>Also doing video editing for fun :3<br><br>{I have special ability to brake things}
+Always working on finding ways to do less work using code<br><br>❤️🐧<br><br>Also doing video editing for fun :3<br><br>{I have special ability to brake things}<br><br>
 
 ###
 
